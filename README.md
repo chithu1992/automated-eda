@@ -16,5 +16,4 @@ There are few more functions which you can apply to specific columns.You can pas
 
 The CSV files we used are uploaded as 'Attrition.csv' and 'Bengaluru_House_Data.csv'
 
-
-
+Data dictionary for Attrition.csv - 
