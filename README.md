@@ -1,5 +1,5 @@
 # automated-eda
-Data explorartion process is a lengthy process and takes a lot of time.Automating some of the things makes our work easier.What each part of the project does is explained below
+Data explorartion process is a lengthy process and takes a lot of time.Automating some of the things makes our work easier.So we have followed a step by step process to automate some of the tasks . What each part of the project does is explained below
 
 
 1)This Plots a histogram for all the numerial columns in a data set(We used a specific data set.Any data set can be passed on to this function) and saves all the histogram images in the working directory.
