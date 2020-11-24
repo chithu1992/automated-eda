@@ -22,3 +22,5 @@ CSV file for Bengaluru_House_Data : https://github.com/chithu1992/automated-eda/
 
 Data dictionary gives details about each of the columns in our data set
 Data dictionary for Attrition.csv - https://github.com/chithu1992/automated-eda/blob/main/Attrition_Data_Dictonary.xlsx
+
+Youtube link where each of the function is explained : https://www.youtube.com/playlist?list=PL6dQUVTcBJmw-y4pRjhn9rL1LebdldB1p
