@@ -13,7 +13,10 @@ Data explorartion process is a lengthy process and takes a lot of time.Automatin
 5)Here we have designed a function that will do following things for us >>Give all the details about our data set >>replace the missing vale with mean >> Removing Duplicates and after this you will get a new data set without missing values and duplicates .
 There are few more functions which you can apply to specific columns.You can pass the column numbers and the function wiill give you the IQR,Value count for categorical variable,coeficiant of variation and univariate relationship table(crosstab)
 
-
 The CSV files we used are uploaded as 'Attrition.csv' and 'Bengaluru_House_Data.csv'
+CSV file for Attrition : https://github.com/chithu1992/automated-eda/blob/main/attrition.csv
 
+CSV file for Bengaluru_House_Data : https://github.com/chithu1992/automated-eda/blob/main/Bengaluru_House_Data.csv
+
+Data dictionary gives details about each of the columns in our data set
 Data dictionary for Attrition.csv - https://github.com/chithu1992/automated-eda/blob/main/Attrition_Data_Dictonary.xlsx
